@@ -1,6 +1,6 @@
 # <span style="color:#00FF55; font-family:Consolas,monospace;">Fwogx402 · 两栖链上人工智能系统</span>
 
-<img src="assets/Fwogx402.png" alt="Fwogx402 标志" width="260"/>
+<img src="Fwogx402.png" alt="Fwogx402 标志" width="260"/>
 
 > <span style="color:#33FF77;">这一仓库不是单一合约或者单一模型的代码集合, 而是围绕 Fwogx402 构建的完整研究环境。</span>
 
